@@ -1,0 +1,32 @@
+{
+    "development": {
+        "username": "sa",
+        "password": "I4GotIt",
+        "database": "AAIMERRGE_Forms_Test",
+        "host": "192.168.1.19",
+        "dialect": "mssql",
+        "migrationStorage": "json",
+        "logging": false,
+        "operatorsAliases": false
+    },
+    "test": {
+        "username": "sa",
+        "password": "I4GotIt",
+        "database": "AAIMERRGE_Forms_Test",
+        "host": "192.168.1.19",
+        "dialect": "mssql",
+        "migrationStorage": "json",
+        "logging": false,
+        "operatorsAliases": false
+    },
+    "production": {
+        "username": "sa",
+        "password": "I4GotIt",
+        "database": "AAIMERRGE_Forms_Test",
+        "host": "localhost",
+        "dialect": "mssql",
+        "migrationStorage": "json",
+        "logging": false,
+        "operatorsAliases": false
+    }
+}
